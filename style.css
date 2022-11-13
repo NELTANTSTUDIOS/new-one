@@ -1,0 +1,174 @@
+
+body{
+    background: linear-gradient(to left, coral, gold);
+}
+.main{
+    display: flex;
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo{
+    font-size: 40px;
+}
+
+.box2{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo2{
+    font-size: 40px;
+}
+
+.box3{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo3{
+    font-size: 40px;
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo4{
+    font-size: 40px;
+}
+
+.box5{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo5{
+    font-size: 40px;
+}
+
+.box6{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo6{
+    font-size: 40px;
+}
+
+.box7{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo7{
+    font-size: 40px;
+}
+
+.box8{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo8{
+    font-size: 40px;
+}
+
+.box9{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo9{
+    font-size: 40px;
+}
+
+.box10{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo10{
+    font-size: 40px;
+}
+
+.box11{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo11{
+    font-size: 40px;
+}
+
+.box12{
+    height: 200px;
+    width: 200px;
+    background: white;
+    border-radius: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+.logo12{
+    font-size: 40px;
+}
+
